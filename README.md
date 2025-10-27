@@ -2,7 +2,7 @@
 
 Adds the fortnite default dance as a usable emote via [PEAKEmoteLib](https://thunderstore.io/c/peak/p/WaporVave/PEAKEmoteLib/).
 
-
+![A gif showing the mod in action](https://github.com/WaporVave/PEAK-Fortnite-Default-Dance-Emote/blob/main/images/demo.gif?raw=true)
 
 ## FAQ
 
