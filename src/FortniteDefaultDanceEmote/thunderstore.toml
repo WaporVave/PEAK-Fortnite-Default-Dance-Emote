@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "WaporVave"
 name = "Fortnite_Default_Dance_Emote"
 description = "Adds the Fortnite default dance (dance moves) as an emote"
-websiteUrl = ""
+websiteUrl = "https://github.com/WaporVave/PEAK-Fortnite-Default-Dance-Emote"
 containsNsfwContent = false
 
 [package.dependencies]
