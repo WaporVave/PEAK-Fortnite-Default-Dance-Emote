@@ -23,7 +23,7 @@ public partial class Plugin : BaseUnityPlugin
         Texture2D iconTexture = assetBundle.LoadAsset<Texture2D>("Assets/default_dance_icon.png");
 
         Emote fortniteEmote = new Emote("WaporVave_FortniteDefaultDance", defaultDanceClip, iconTexture, type: Emote.EmoteType.OneShot, disableIK: true);
-        fortniteEmote.AddLocalization("My Awesome Emote", LocalizedText.Language.English);
+        fortniteEmote.AddLocalization("Fortnite Default Dance", LocalizedText.Language.English);
 
         this.RegisterEmote(fortniteEmote);
 
